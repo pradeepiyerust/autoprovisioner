@@ -1,6 +1,9 @@
 {
   "name": "by-autoprovisioner",
   "version": "0.0.1",
-  "license": "Boots BetaLabs 0.1",
+  "author": "by",
+  "license": "Apache 2.0",
+  "summary": "Autoprovisioner module",
+  "source": "https://github.com/pradeepiyerust/autoprovisioner",
   "dependencies": []
 }
